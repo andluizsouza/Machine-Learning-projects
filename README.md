@@ -17,7 +17,7 @@ Esse repositório contém alguns projetos de Machine Learning desenvolvidos no c
 
 ## Algoritmos não-supervisionados
 * Sistema de recomendação aos clientes
-* KMeans e clsutering
+* KMeans e clustering
 * Redução de dimensionalidade
 * Número ideal de centroides e inertia
 * Agrupamento hierárquico e dendrograma
