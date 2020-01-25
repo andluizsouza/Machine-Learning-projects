@@ -21,3 +21,8 @@ Esse repositório contém alguns projetos de Machine Learning desenvolvidos no c
 * Redução de dimensionalidade
 * Número ideal de centroides e inertia
 * Agrupamento hierárquico e dendrograma
+
+## Processamento de linguagem natural
+* Bag of words, stop words, word cloud
+* Tokenizer e CountVectorizer
+* TF-IDF e stemmer
